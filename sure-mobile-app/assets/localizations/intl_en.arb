@@ -1,0 +1,83 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "Sure Mobile App",
+  "@appTitle": {
+    "description": "Application title"
+  },
+
+  "homeTitle": "Welcome",
+  "@homeTitle": {
+    "description": "Home page title"
+  },
+
+  "homeSubtitle": "Your journey starts here",
+  "@homeSubtitle": {
+    "description": "Home page subtitle"
+  },
+
+  "homeWelcomeCardTitle": "Get Started",
+  "@homeWelcomeCardTitle": {
+    "description": "Welcome card title on home page"
+  },
+
+  "homeWelcomeCardDescription": "Tap to explore the features of the app",
+  "@homeWelcomeCardDescription": {
+    "description": "Welcome card description"
+  },
+
+  "homeSemanticWelcomeCard": "Welcome card",
+  "@homeSemanticWelcomeCard": {
+    "description": "Semantic label for welcome card"
+  },
+
+  "homeSemanticWelcomeCardHint": "Double tap to explore features",
+  "@homeSemanticWelcomeCardHint": {
+    "description": "Semantic hint for welcome card"
+  },
+
+  "homeSemanticWaveIcon": "Waving hand icon",
+  "@homeSemanticWaveIcon": {
+    "description": "Semantic label for wave icon"
+  },
+
+  "generalLoading": "Loading...",
+  "@generalLoading": {
+    "description": "Loading indicator text"
+  },
+
+  "generalError": "An error occurred",
+  "@generalError": {
+    "description": "Generic error message"
+  },
+
+  "generalRetry": "Retry",
+  "@generalRetry": {
+    "description": "Retry button text"
+  },
+
+  "generalCancel": "Cancel",
+  "@generalCancel": {
+    "description": "Cancel button text"
+  },
+
+  "generalConfirm": "Confirm",
+  "@generalConfirm": {
+    "description": "Confirm button text"
+  },
+
+  "generalClose": "Close",
+  "@generalClose": {
+    "description": "Close button text"
+  },
+
+  "generalSemanticCloseButton": "Close button",
+  "@generalSemanticCloseButton": {
+    "description": "Semantic label for close button"
+  },
+
+  "generalSemanticCloseButtonHint": "Double tap to close",
+  "@generalSemanticCloseButtonHint": {
+    "description": "Semantic hint for close button"
+  }
+}
